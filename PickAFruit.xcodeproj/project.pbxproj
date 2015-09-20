@@ -22,6 +22,7 @@
 		ACA0F2431BAB107300538C4E /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ACA0F2461BAB107300538C4E /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		ACA0F2481BAB107300538C4E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		ACA0F24E1BAB14B700538C4E /* MyPlayground.playground */ = {isa = PBXFileReference; lastKnownFileType = file.playground; path = MyPlayground.playground; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +61,7 @@
 				ACA0F2431BAB107300538C4E /* Assets.xcassets */,
 				ACA0F2451BAB107300538C4E /* LaunchScreen.storyboard */,
 				ACA0F2481BAB107300538C4E /* Info.plist */,
+				ACA0F24E1BAB14B700538C4E /* MyPlayground.playground */,
 			);
 			path = PickAFruit;
 			sourceTree = "<group>";
@@ -90,6 +92,7 @@
 		ACA0F2311BAB107300538C4E /* Project object */ = {
 			isa = PBXProject;
 			attributes = {
+				LastSwiftUpdateCheck = 0710;
 				LastUpgradeCheck = 0700;
 				ORGANIZATIONNAME = "Digital Mirko";
 				TargetAttributes = {
@@ -283,6 +286,7 @@
 				ACA0F24D1BAB107300538C4E /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
